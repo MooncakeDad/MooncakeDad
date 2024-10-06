@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Guitar
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me ...
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
