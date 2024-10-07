@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MooncakeDad
 - 👀 I’m interested in Music, Photography, Traveling, etc.
 - 🌱 I’m currently learning Guitar
-- 💞️ I’m looking to collaborate on Coding
+- 💞️ I’m looking to collaborate on Coding and Algorithms
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
